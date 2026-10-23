@@ -1,6 +1,6 @@
 {
-    "version": "1.2",
+    "version": "1.2.1",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "Tall fighters that punch and kick, isometric rooms, two players taking turns (Pro), and a Report a bug button."
+    "notes": "Home fits every screen: How it works and the templates fold out and scroll. The interface size now fits your screen by itself. Scrolling games have straight borders, a centred score line and no tearing."
 }
