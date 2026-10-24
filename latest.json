@@ -1,6 +1,6 @@
 {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "Home fits every screen: How it works and the templates fold out and scroll. The interface size now fits your screen by itself. Scrolling games have straight borders, a centred score line and no tearing."
+    "notes": "Music: import SIDJAM songs (Pro), copy loops into Mine, mute or solo a voice. CharPad and SpritePad import, and more levels in four templates. A Short hitbox lets the player walk through gaps one tile high. Every page fits small screens, plus engine fixes."
 }
