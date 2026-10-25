@@ -1,6 +1,6 @@
 {
-    "version": "1.2.5",
+    "version": "1.2.4",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "Moving platforms for platform games (Jump Quest has lifts), ladders that lead up through floors, launch tiles, enemy hitboxes that fit the picture, and HUD numbers in their own colour."
+    "notes": "Make Pong: a three-part tutorial on the Home page. New rules for single-screen games (stick, angled bounces, speed steps, counters, big 2-player scores, a high score table). Bounce enemies glance off platforms, or turn round or fly through, and can stay between two rows. Plus map copy and paste, and hidden exits."
 }
