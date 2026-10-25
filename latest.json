@@ -1,6 +1,6 @@
 {
-    "version": "1.2.2",
+    "version": "1.2.4",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "Music: import SIDJAM songs (Pro), copy loops into Mine, mute or solo a voice. CharPad and SpritePad import, and more levels in four templates. A Short hitbox lets the player walk through gaps one tile high. Every page fits small screens, plus engine fixes."
+    "notes": "Make Pong: a three-part tutorial on the Home page. New rules for single-screen games (stick, angled bounces, speed steps, counters, big 2-player scores, a high score table). Bounce enemies glance off platforms, or turn round or fly through, and can stay between two rows. Plus map copy and paste, and hidden exits."
 }
