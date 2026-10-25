@@ -1,6 +1,6 @@
 {
-    "version": "1.2.5",
+    "version": "1.2.6",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "Moving platforms for platform games (Jump Quest has lifts), ladders that lead up through floors, launch tiles, enemy hitboxes that fit the picture, and HUD numbers in their own colour."
+    "notes": "Fixed: in a map game the Sprites page now shows and sets the sprite colours the game really uses. Also in 1.2.5: moving platforms, ladders through floors, launch tiles, enemy hitboxes that fit the picture and HUD numbers in their own colour."
 }
