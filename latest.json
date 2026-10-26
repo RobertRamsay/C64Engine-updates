@@ -1,6 +1,6 @@
 {
-    "version": "1.2.6",
+    "version": "1.2.7",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "Fixed: in a map game the Sprites page now shows and sets the sprite colours the game really uses. Also in 1.2.5: moving platforms, ladders through floors, launch tiles, enemy hitboxes that fit the picture and HUD numbers in their own colour."
+    "notes": "Overlay sprites (Pro): crisp hi-res outlines over multicolour players and enemies, normal size or twice as tall / wide, with one or two outlines. A new Overlay sprites tutorial on the Home page. Single-screen games can use their own characters."
 }
