@@ -1,6 +1,6 @@
 {
-    "version": "1.2.7",
+    "version": "1.2.8",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "Overlay sprites (Pro): crisp hi-res outlines over multicolour players and enemies, normal size or twice as tall / wide, with one or two outlines. A new Overlay sprites tutorial on the Home page. Single-screen games can use their own characters."
+    "notes": "Checkpoints, bosses and extra lives for the shooters. Single-screen games can shoot, and IF lines check who is on top in a bump. Title screens and high score tables for every game, jingles, your own .SID tunes. Tutorials open with an intro and F1 carries on where you stopped. Your games and Community games on Home."
 }
