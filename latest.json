@@ -1,6 +1,6 @@
 {
-    "version": "1.2.9",
+    "version": "1.3.1",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "Platformers: even jumps, stomp, double jump, and Up / Fire / either to jump. Enemies can wait, patrol then chase, and stay in their room. Pro: EXONORIT packs your program and pictures to about half the size, and up to 16 map levels. God mode: infinite lives, enemies can't hurt, F8 skips the level. Leap Froggy updated with new music."
+    "notes": "Find any feature with Ctrl+F (Cmd+F on the Mac), and a guided tour of everything whose card keeps out of your way. Knock out actor: a hit enemy shows an explosion or a knight on the ground, then hides or gets up again. Shots can show a different sprite each way they fly, and big numbers can skip the pause after each point. Map games can switch the score bar off and use all 24 rows, CharPad title screens, and Colour per tile off now shows as the game does."
 }
