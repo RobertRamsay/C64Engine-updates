@@ -1,6 +1,6 @@
 {
-    "version": "1.3.1",
+    "version": "1.3.2",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "Find any feature with Ctrl+F (Cmd+F on the Mac), and a guided tour of everything whose card keeps out of your way. Knock out actor: a hit enemy shows an explosion or a knight on the ground, then hides or gets up again. Shots can show a different sprite each way they fly, and big numbers can skip the pause after each point. Map games can switch the score bar off and use all 24 rows, CharPad title screens, and Colour per tile off now shows as the game does."
+    "notes": "Moving platforms from point A to point B at any slope, slower lifts (down to 0.25) and top and bottom rows. A time limit for each level, a title logo over sharp text, and a .SID tune's title song and game song. Fixes: facing left stays left when the player stops, standing still on a ridden platform, true-size sprites on the Map page, and the slow teleport spell."
 }
