@@ -1,6 +1,6 @@
 {
-    "version": "1.3.3",
+    "version": "1.3.4",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "Level screens for map games: GET READY before each level and LEVEL COMPLETE after it, with the score, goal or time left. All 16 map levels are kept and built (more than 8 were lost on reopening), shooting faces left, and moving platforms can be deadly. Isometric rooms: much faster editing, click a block's side to swap it, hide the rows in front, and cleaner edges and sprites on the C64 with a Colour clash choice."
+    "notes": "Fixes a crash when opening the Levels page of a single-screen game started new or from a template, and one on the Logic page when an IF line was switched to an actor. 1.3.3 brought level screens (GET READY / LEVEL COMPLETE) for map games, all 16 map levels, deadly moving platforms and a faster isometric editor."
 }
