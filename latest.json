@@ -1,6 +1,6 @@
 {
-    "version": "1.3.4",
+    "version": "1.3.6",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "Fixes a crash when opening the Levels page of a single-screen game started new or from a template, and one on the Logic page when an IF line was switched to an actor. 1.3.3 brought level screens (GET READY / LEVEL COMPLETE) for map games, all 16 map levels, deadly moving platforms and a faster isometric editor."
+    "notes": "Mac: Run on C64U works on macOS 15 and later - the studio asks for local network access now (click Allow, or switch C64 Engine on in Privacy & Security > Local Network). New projects and templates start with every setting filled in. 1.3.5 brought bouncing shots, a level bonus for finishing and for the time left, sprites on the title and game complete screens, Attract mode in Game settings, no score bar with items, and fixes."
 }
