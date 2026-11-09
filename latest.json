@@ -1,6 +1,6 @@
 {
-    "version": "1.3.6",
+    "version": "1.3.7",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "Mac: Run on C64U works on macOS 15 and later - the studio asks for local network access now (click Allow, or switch C64 Engine on in Privacy & Security > Local Network). New projects and templates start with every setting filled in. 1.3.5 brought bouncing shots, a level bonus for finishing and for the time left, sprites on the title and game complete screens, Attract mode in Game settings, no score bar with items, and fixes."
+    "notes": "Pro: save an EasyFlash cartridge too, and keep levels and pictures on the cartridge or in an REU - far more room and up to 32 levels, with a fast 1541/1571 loader and C64 Ultimate support. Tile Zones (water, low gravity, mud), tile sets, level Test and drag to reorder, a Game complete screen of its own characters, and Leap Froggy grows to 16 ponds."
 }
