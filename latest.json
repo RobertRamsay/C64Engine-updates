@@ -1,6 +1,6 @@
 {
-    "version": "1.3.8",
+    "version": "1.3.9",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "Pro: the Code page for your own 6502 code, up to 8 C64 Ultimate palettes, a graphical HUD for map games, and tiles that shoot (dart traps, turrets). Aim shots up and down, new enemy settings, Falls tiles in platformers, Exit and level start / high score sounds, new art and tunes for every template, and Submit your game."
+    "notes": "Pro: 80 sprites instead of 32. Enemies can have shots of their own, choose what happens when they leave the screen, and whether jumping on them defeats them. Iso games can use 4-way controls along the floor. Also: kept enemies come back each in their own place, and the bottom HUD stays steady in games that scroll up and down."
 }
