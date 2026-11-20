@@ -1,6 +1,6 @@
 {
-    "version": "1.3.9",
+    "version": "1.4.0",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "Pro: 80 sprites instead of 32. Enemies can have shots of their own, choose what happens when they leave the screen, and whether jumping on them defeats them. Iso games can use 4-way controls along the floor. Also: kept enemies come back each in their own place, and the bottom HUD stays steady in games that scroll up and down."
+    "notes": "New asks what kind of game you want, and platform, shoot-em-up and top-down games start as a small game that already plays. Enemies can flash when hit, shoot only when they see the player, stay gone for the level once defeated, and move slower. One-way tiles, drag tiles to reorder, bigger dynamite blasts, a grid and logo on the Bitmaps page, draggable scroll bars, 80% and 90% sizes for small laptops, and C64 Ultimate 1.2.0+ palettes."
 }
