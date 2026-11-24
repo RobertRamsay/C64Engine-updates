@@ -1,6 +1,6 @@
 {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "New asks what kind of game you want, and platform, shoot-em-up and top-down games start as a small game that already plays. Enemies can flash when hit, shoot only when they see the player, stay gone for the level once defeated, and move slower. One-way tiles, drag tiles to reorder, bigger dynamite blasts, a grid and logo on the Bitmaps page, draggable scroll bars, 80% and 90% sizes for small laptops, and C64 Ultimate 1.2.0+ palettes."
+    "notes": "Moving blocks for map games (Pro): tiles that slide, loop or wait as traps that crush and carry. A Mechanics section on Home with small demo games and How it's done cards, and Find lists every demo and tutorial. A Save button in the top bar, new title pictures for every template, enemies that count towards the goal, turn round and fire the way they move, pickup messages in a custom HUD, Space bar dynamite, tiles that keep their own colour, The Hunt tutorial, and C64 Ultimate 1.2 REU uploads work again."
 }
