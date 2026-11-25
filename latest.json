@@ -1,6 +1,6 @@
 {
-    "version": "1.4.1",
+    "version": "1.4.2",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "Moving blocks for map games (Pro): tiles that slide, loop or wait as traps that crush and carry. A Mechanics section on Home with small demo games and How it's done cards, and Find lists every demo and tutorial. A Save button in the top bar, new title pictures for every template, enemies that count towards the goal, turn round and fire the way they move, pickup messages in a custom HUD, Space bar dynamite, tiles that keep their own colour, The Hunt tutorial, and C64 Ultimate 1.2 REU uploads work again."
+    "notes": "Every game is built as a .d64 disk too, in Lite and Pro. Level screens can give each level its own lines, for a mission briefing, and the bitmap strip can be up to 12 rows (Pro). Losing a life can make the player catch fire and jump off the screen. Shooters get a play area: gaps from each edge, and edges that stop the ship, take a life or wrap round; Solid tiles can stop the ship and you can draw your own explosion. Patrol and Crawler enemies can turn round on a timer, spawners can choose whether their enemies count towards the goal, and hidden exits act as empty tiles until they open."
 }
