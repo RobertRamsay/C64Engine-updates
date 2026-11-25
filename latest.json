@@ -1,6 +1,6 @@
 {
-    "version": "1.4.2",
+    "version": "1.4.3",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "Every game is built as a .d64 disk too, in Lite and Pro. Level screens can give each level its own lines, for a mission briefing, and the bitmap strip can be up to 12 rows (Pro). Losing a life can make the player catch fire and jump off the screen. Shooters get a play area: gaps from each edge, and edges that stop the ship, take a life or wrap round; Solid tiles can stop the ship and you can draw your own explosion. Patrol and Crawler enemies can turn round on a timer, spawners can choose whether their enemies count towards the goal, and hidden exits act as empty tiles until they open."
+    "notes": "Enemies can stay still until the player comes near, with a short wake delay and an option for walls to block their view. Moving blocks can move in a cross, turn at random, and traps can smash or smash and grow back (Pro). Settings panels fold into sections with a filter box, and Find searches the things in your project too. Jump Quest has a redrawn title hero."
 }
