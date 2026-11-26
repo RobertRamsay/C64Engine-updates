@@ -1,6 +1,6 @@
 {
-    "version": "1.4.3",
+    "version": "1.4.4",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "Enemies can stay still until the player comes near, with a short wake delay and an option for walls to block their view. Moving blocks can move in a cross, turn at random, and traps can smash or smash and grow back (Pro). Settings panels fold into sections with a filter box, and Find searches the things in your project too. Jump Quest has a redrawn title hero."
+    "notes": "Each tile set can have up to 256 tiles of its own (Pro; 64 in games with falling tiles). Import CharPad map can add the map's tiles to a tile set, replace its own, or make a new set for them."
 }
