@@ -1,6 +1,6 @@
 {
-    "version": "1.4.4",
+    "version": "1.4.5",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "Each tile set can have up to 256 tiles of its own (Pro; 64 in games with falling tiles). Import CharPad map can add the map's tiles to a tile set, replace its own, or make a new set for them."
+    "notes": "Sprites can go behind the scenery, and each sprite can have its own collision box. Levels can have their own player and sprite colours, losing a life can catch fire on the spot, and enemies keep to one-way passages. (Pro) Moving blocks can push or harm enemies - see the Crusher Alley demo - and tile set fixes."
 }
