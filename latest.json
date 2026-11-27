@@ -1,6 +1,6 @@
 {
-    "version": "1.4.7",
+    "version": "1.4.8",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "(Pro) Each tile set picks its own dynamite and tool tiles from its own tiles (Items and Tools tabs), and the Charset page's Tile colour shows and changes the colour the game uses."
+    "notes": "Bounce enemies can pick a Random way (Enemies page). Fixes: games with one-way tiles and Patrol, then chase enemies build again (no more 'Branch too far'), and (Pro) dynamite set up only for tile sets works again."
 }
