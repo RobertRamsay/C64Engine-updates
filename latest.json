@@ -1,6 +1,6 @@
 {
-    "version": "1.4.5",
+    "version": "1.4.6",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "Sprites can go behind the scenery, and each sprite can have its own collision box. Levels can have their own player and sprite colours, losing a life can catch fire on the spot, and enemies keep to one-way passages. (Pro) Moving blocks can push or harm enemies - see the Crusher Alley demo - and tile set fixes."
+    "notes": "(Pro) Tile set fixes: dynamite works when its lit and blast tiles belong to a tile set, tools that place a tile find the set's own, the Map page shows each level's own player colours, and the Charset page follows the Map page's level and changes its colours."
 }
