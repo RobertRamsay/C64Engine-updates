@@ -1,6 +1,6 @@
 {
-    "version": "1.4.6",
+    "version": "1.4.7",
     "lite_url": "https://polytricity.itch.io/c64-engine",
     "pro_url": "https://polytricity.itch.io/c64-engine",
-    "notes": "(Pro) Tile set fixes: dynamite works when its lit and blast tiles belong to a tile set, tools that place a tile find the set's own, the Map page shows each level's own player colours, and the Charset page follows the Map page's level and changes its colours."
+    "notes": "(Pro) Each tile set picks its own dynamite and tool tiles from its own tiles (Items and Tools tabs), and the Charset page's Tile colour shows and changes the colour the game uses."
 }
